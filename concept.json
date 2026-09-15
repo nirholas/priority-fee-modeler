@@ -1,0 +1,11 @@
+{
+  "slug": "priority-fee-modeler",
+  "name": "Priority Fee Modeler",
+  "kind": "tooling",
+  "description": "Model total v1 priority fees for bandwidth-heavy transactions without instruction scanning.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
