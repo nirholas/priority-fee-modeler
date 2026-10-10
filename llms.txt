@@ -1,0 +1,26 @@
+# priority-fee-modeler
+
+> Model total v1 priority fees for bandwidth-heavy transactions without instruction scanning.
+
+priority-fee-modeler is an open-source repository by nirholas, part of the three.ws ecosystem.
+
+## Docs
+
+- [README](https://github.com/nirholas/priority-fee-modeler/blob/HEAD/README.md): install, usage and reference
+- [Why this exists](https://github.com/nirholas/priority-fee-modeler/blob/HEAD/README.md#why-this-exists)
+- [Working features](https://github.com/nirholas/priority-fee-modeler/blob/HEAD/README.md#working-features)
+- [Status](https://github.com/nirholas/priority-fee-modeler/blob/HEAD/README.md#status)
+- [Run](https://github.com/nirholas/priority-fee-modeler/blob/HEAD/README.md#run)
+- [Transaction v1 rules](https://github.com/nirholas/priority-fee-modeler/blob/HEAD/README.md#transaction-v1-rules)
+- [License](https://github.com/nirholas/priority-fee-modeler/blob/HEAD/README.md#license)
+- [AGENTS.md](https://github.com/nirholas/priority-fee-modeler/blob/HEAD/AGENTS.md): guidance for coding agents
+- [Full text for LLMs](https://github.com/nirholas/priority-fee-modeler/blob/HEAD/llms-full.txt): the README inlined
+
+## Project
+
+- [Source](https://github.com/nirholas/priority-fee-modeler)
+- [Issues](https://github.com/nirholas/priority-fee-modeler/issues)
+- [Discussions](https://github.com/nirholas/priority-fee-modeler/discussions)
+- [Homepage](https://three.ws)
+- [three.ws](https://three.ws): the platform this is part of
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme)

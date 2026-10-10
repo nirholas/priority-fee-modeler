@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "priority-fee-modeler"
+abstract: "Model total v1 priority fees for bandwidth-heavy transactions without instruction scanning."
+repository-code: "https://github.com/nirholas/priority-fee-modeler"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"
