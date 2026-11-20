@@ -8,7 +8,7 @@ Model total v1 priority fees for bandwidth-heavy transactions without instructio
 
 - Source: https://github.com/nirholas/priority-fee-modeler
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
